@@ -128,7 +128,11 @@ package com.liu;
 
 
 /*
-内部类：11
+内部类
+        Application3,Outer,Test;
+
+        一个java类中可以有多个class类，但只能有一个public class；
+
 
  */
 
